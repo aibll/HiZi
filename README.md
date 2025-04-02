@@ -3,4 +3,4 @@
 ## 官网链接
 [https://zi.hi.cn/](https://zi.hi.cn/)
 ## 官网预览
-![你好字库官网预览](https://zi.hi.cn/wp-content/themes/HiZi/screenshot.png)
+![你好字库官网预览图](https://zi.hi.cn/wp-content/themes/HiZi/screenshot.png)
